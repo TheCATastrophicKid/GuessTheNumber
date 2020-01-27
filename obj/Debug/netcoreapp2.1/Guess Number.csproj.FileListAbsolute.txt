@@ -1,0 +1,11 @@
+C:\Users\tomas\OneDrive\Code\Guess Number\bin\Debug\netcoreapp2.1\Guess Number.deps.json
+C:\Users\tomas\OneDrive\Code\Guess Number\bin\Debug\netcoreapp2.1\Guess Number.runtimeconfig.json
+C:\Users\tomas\OneDrive\Code\Guess Number\bin\Debug\netcoreapp2.1\Guess Number.runtimeconfig.dev.json
+c:\Users\tomas\OneDrive\Code\Guess Number\bin\Debug\netcoreapp2.1\Guess Number.dll
+c:\Users\tomas\OneDrive\Code\Guess Number\bin\Debug\netcoreapp2.1\Guess Number.pdb
+c:\Users\tomas\OneDrive\Code\Guess Number\obj\Debug\netcoreapp2.1\Guess Number.csprojAssemblyReference.cache
+c:\Users\tomas\OneDrive\Code\Guess Number\obj\Debug\netcoreapp2.1\Guess Number.csproj.CoreCompileInputs.cache
+c:\Users\tomas\OneDrive\Code\Guess Number\obj\Debug\netcoreapp2.1\Guess Number.AssemblyInfoInputs.cache
+c:\Users\tomas\OneDrive\Code\Guess Number\obj\Debug\netcoreapp2.1\Guess Number.AssemblyInfo.cs
+c:\Users\tomas\OneDrive\Code\Guess Number\obj\Debug\netcoreapp2.1\Guess Number.dll
+c:\Users\tomas\OneDrive\Code\Guess Number\obj\Debug\netcoreapp2.1\Guess Number.pdb
